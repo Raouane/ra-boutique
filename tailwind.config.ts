@@ -24,11 +24,11 @@ export default {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#1a1a1a",
+          DEFAULT: "#F97316",  // Orange vif
           foreground: "#ffffff",
         },
         secondary: {
-          DEFAULT: "#f5f5f5",
+          DEFAULT: "#F2FCE2",  // Vert clair
           foreground: "#1a1a1a",
         },
         destructive: {
